@@ -105,7 +105,7 @@ When you've completed all the required exercises, checkout to a new branch 'resp
 -   How comfortable are you with the workflow (series of steps and git commands) we use to share work and responses?
 - <Not very comfortable. Definitley will need additional practice.>
 - Do you have any burning questions about git or how you will use it in this course?
--  <Will we go over Git commands and such later?>
+-  <Will we go over Git commands and such later? I would like to practice it more.>
 
 
 After you've answered the questions, create a pull request with your response.
