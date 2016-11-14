@@ -102,9 +102,8 @@ When you've completed all the required exercises, checkout to a new branch 'resp
 - The Interactive Git Tutorial
 -  Which resource (if any) was most frustrating? Why?
 - None
--   How comfortable are you with the workflow (series of steps and git commands) we use to share work and responses?
-- 90% comfortable, sometimes I question if the direction are written clearly or if I am missing some knowledge.
--
+-  How comfortable are you with the workflow (series of steps and git commands) we use to share work and responses?
+- I am 90% comfortable, sometimes I question if the direction are written clearly or if I am missing some knowledge.
 - Do you have any burning questions about git or how you will use it in this course?
 -  not really, it seems like we will be forking  our assignments > cloning our version to have it locally > make our change > git push origin master to get it on our github > perform a pull request.
 
