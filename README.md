@@ -97,15 +97,15 @@ Branching](http://pcottle.github.io/learnGitBranching/) again.
 When you've completed all the required exercises, checkout to a new branch 'response' and answer the following questions, placing your answers where prompted. Don't hesitate to add anything else you'd like us to know about your experience with this pactice, or the course so far.
 
 - How do you learn best?
-- I learn best by actually doing the task
+I learn best by actually doing the task
 -  Which resources from this document helped you the most?
-- The Interactive Git Tutorial
+The Interactive Git Tutorial
 -  Which resource (if any) was most frustrating? Why?
-- None
+ None
 -  How comfortable are you with the workflow (series of steps and git commands) we use to share work and responses?
-- I am 90% comfortable, sometimes I question if the direction are written clearly or if I am missing some knowledge.
+I am 90% comfortable, sometimes I question if the direction are written clearly or if I am missing some knowledge.
 - Do you have any burning questions about git or how you will use it in this course?
--  not really, it seems like we will be forking  our assignments > cloning our version to have it locally > make our change > git push origin master to get it on our github > perform a pull request.
+I don't have any questions at the moment, it seems like we will be forking our assignments > cloning our version to have it locally > make our change > git push origin master to get it on our github > perform a pull request.
 
 After you've answered the questions, create a pull request with your response.
 
