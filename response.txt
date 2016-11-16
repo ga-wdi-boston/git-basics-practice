@@ -1,0 +1,20 @@
+When you've completed all the required exercises, checkout to a new branch 'response' and answer the following questions, placing your answers where prompted. Don't hesitate to add anything else you'd like us to know about your experience with this pactice, or the course so far.
+
+How do you learn best?
+I am a visual learner as well as hands on. Real life examples, and application help me understand concepts. 
+
+Which resources from this document helped you the most?
+The reading helped a bit but for the most part, my partner and I practiced git commands in the terminal and gitHub 
+
+Which resource (if any) was most frustrating? Why?
+The branching was kind of confusing because I just didn’t wrap by head around the logic of the working tree. 
+
+How comfortable are you with the workflow (series of steps and git commands) we use to share work and responses?
+
+5
+
+
+Do you have any burning questions about git or how you will use it in this course?
+After you've answered the questions, create a pull request with your response.
+
+I will use git to navigate the terminal as well as create, save and share files throughout local and remote repositories.
