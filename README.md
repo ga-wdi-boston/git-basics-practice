@@ -97,18 +97,18 @@ Branching](http://pcottle.github.io/learnGitBranching/) again.
 When you've completed all the required exercises, checkout to a new branch 'response' and answer the following questions, placing your answers where prompted. Don't hesitate to add anything else you'd like us to know about your experience with this pactice, or the course so far.
 
 - How do you learn best?
-- <answer-here>
+- BY hands-on-repetition
 -  Which resources from this document helped you the most?
-- <answer-here>
+- atlassian site links
 -  Which resource (if any) was most frustrating? Why?
-- <answer-here>
+- some of the GitHb links where difficult because it was referencing syntax that was foreign to me
 -   How comfortable are you with the workflow (series of steps and git commands) we use to share work and responses?
-- <answer-here>
+- when this was first an assignment not at all; have become more comfortable and if you are getting this properly I am comfortable with the process
 - Do you have any burning questions about git or how you will use it in this course?
--  <answer-here>
+-  Can I eventually erase the repositories for this class that will not be useful to me or be things I do not want future employers to see
 
 
-After you've answered the questions, create a pull request with your response. 
+After you've answered the questions, create a pull request with your response.
 
 ## [License](LICENSE)
 
