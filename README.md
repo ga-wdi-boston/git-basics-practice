@@ -97,18 +97,24 @@ Branching](http://pcottle.github.io/learnGitBranching/) again.
 When you've completed all the required exercises, checkout to a new branch 'response' and answer the following questions, placing your answers where prompted. Don't hesitate to add anything else you'd like us to know about your experience with this pactice, or the course so far.
 
 - How do you learn best?
-- <answer-here>
+I learn best through interactive tutorials (like the one that was included in this assignment).
+
 -  Which resources from this document helped you the most?
-- <answer-here>
+The resource that was most valuable was the interactive git branching tutorial
+
+
 -  Which resource (if any) was most frustrating? Why?
-- <answer-here>
+Although the tutorial was very valuable, I found it to be frustrating at times.  I feel that the instructions were not always clear.  Therefore, some time was wasted trying to determine what I was being asked to do.
+
+
 -   How comfortable are you with the workflow (series of steps and git commands) we use to share work and responses?
-- <answer-here>
+On a scale of 1 to 5, I would describe my comfort level with workflow at a 3.
+
 - Do you have any burning questions about git or how you will use it in this course?
--  <answer-here>
+No questions at this time.  One comment though - it would be very helpful if the terminology was discussed in more depth.  In other words, going over the definition of words and how they differ from other terms (e.g. repo versus folder).
 
 
-After you've answered the questions, create a pull request with your response. 
+After you've answered the questions, create a pull request with your response.
 
 ## [License](LICENSE)
 
