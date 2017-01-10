@@ -97,18 +97,18 @@ Branching](http://pcottle.github.io/learnGitBranching/) again.
 When you've completed all the required exercises, checkout to a new branch 'response' and answer the following questions, placing your answers where prompted. Don't hesitate to add anything else you'd like us to know about your experience with this pactice, or the course so far.
 
 - How do you learn best?
-- <answer-here>
+- I learn best by following something along, trying it on my own, and then explaining it to someone else.
 -  Which resources from this document helped you the most?
-- <answer-here>
+- CodeSchool's Interactive Tutorial was pretty helpful, since it required commands that we'll actually be using, and visually it looked more similar to what we did in class.
 -  Which resource (if any) was most frustrating? Why?
-- <answer-here>
+- I had a hard time with Learn Git Branching. While the visuals were useful at first, they got increasingly more confusing when they started throwing in shorthand like `o/master` and using `-u` to avoid writing out the path.
 -   How comfortable are you with the workflow (series of steps and git commands) we use to share work and responses?
-- <answer-here>
+- I feel alright with it (3.5/5), but I guess we'll see when I try to turn this in.
 - Do you have any burning questions about git or how you will use it in this course?
--  <answer-here>
+-  I got really lost when Learn Git Branching started talking about rebase and fetch. I get that fetch is part of the pull process, but I don't fully get when we'll use it by itself.
 
 
-After you've answered the questions, create a pull request with your response. 
+After you've answered the questions, create a pull request with your response.
 
 ## [License](LICENSE)
 
