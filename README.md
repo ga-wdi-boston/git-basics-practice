@@ -97,18 +97,18 @@ Branching](http://pcottle.github.io/learnGitBranching/) again.
 When you've completed all the required exercises, checkout to a new branch 'response' and answer the following questions, placing your answers where prompted. Don't hesitate to add anything else you'd like us to know about your experience with this pactice, or the course so far.
 
 - How do you learn best?
-- <answer-here>
+- I'm a visual learner, so seeing things drawn out as diagrams helps me a lot.
 -  Which resources from this document helped you the most?
-- <answer-here>
+- I found the "Comparing Workflows" tutorial from Atlassian to be very informative.
 -  Which resource (if any) was most frustrating? Why?
-- <answer-here>
+- I did not enjoy using the Learn Git Branching tool.  I do not think they explained the information with enough depth, specifically the HEAD section.  Also, I found the user interface very frustrating.  When I tried to click something, all these different windows kept popping up.
 -   How comfortable are you with the workflow (series of steps and git commands) we use to share work and responses?
-- <answer-here>
+- I'm fairly comfortable.  I understand the theory and why each step must be done, but I'd like to practice it more to really understand it.
 - Do you have any burning questions about git or how you will use it in this course?
--  <answer-here>
+-  I don't have any questions about git yet, but I have a small comment about this document.  In the paragraph above, under the Response headline, the word "practice" is spelled incorrectly (pactice).
 
 
-After you've answered the questions, create a pull request with your response. 
+After you've answered the questions, create a pull request with your response.
 
 ## [License](LICENSE)
 
