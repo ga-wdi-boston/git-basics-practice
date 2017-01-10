@@ -103,7 +103,7 @@ When you've completed all the required exercises, checkout to a new branch 'resp
 -  Which resource (if any) was most frustrating? Why?
 - <the most frustrating was/is the LearnGitBranching. I could not understand what they wanted nor their visualisation. Therefore, when it got to the Remote-To Origin and Beyond, levels 1 and 3, I was useless.>
 -   How comfortable are you with the workflow (series of steps and git commands) we use to share work and responses?
-- <In the class I was at 5/5 but now I am at 3.5/5 as the LearnGitBranch really confused me.>
+- <In the class i was at 5/5 but now I am at 3.5/5 as the LearnGitBranch really confused me.>
 - Do you have any burning questions about git or how you will use it in this course?
 -  <I need a verbal explaination of what HEAD is pretty please.>
 
