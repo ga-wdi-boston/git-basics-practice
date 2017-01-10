@@ -97,18 +97,18 @@ Branching](http://pcottle.github.io/learnGitBranching/) again.
 When you've completed all the required exercises, checkout to a new branch 'response' and answer the following questions, placing your answers where prompted. Don't hesitate to add anything else you'd like us to know about your experience with this pactice, or the course so far.
 
 - How do you learn best?
-- <answer-here>
+- lecture followed by hands-on experience with the material
 -  Which resources from this document helped you the most?
-- <answer-here>
+- The learn git branching helped me to understand a bit better what is actually happening in git, which I had previously only used with software like SourceTree
 -  Which resource (if any) was most frustrating? Why?
-- <answer-here>
+- if anything some of the learn git branching exercises were frustrating because I'm still a bit fuzzy on rebasing
 -   How comfortable are you with the workflow (series of steps and git commands) we use to share work and responses?
-- <answer-here>
+- very comfortable
 - Do you have any burning questions about git or how you will use it in this course?
--  <answer-here>
+- I'm not sure I completely understand how to use rebasing properly, the more complicated exercises involving it took me several more steps than the given answer.
 
 
-After you've answered the questions, create a pull request with your response. 
+After you've answered the questions, create a pull request with your response.
 
 ## [License](LICENSE)
 
