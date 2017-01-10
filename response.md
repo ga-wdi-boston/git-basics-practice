@@ -1,3 +1,5 @@
+These are my responses to our homework questions
+
 How do you learn best?
 
 I learn best through audio description, and visual represenation. I get lost in reading and following written tutorials without a visual guide to go with it.
@@ -16,4 +18,4 @@ I am becoming more and more comfortable with it. I will defintely still have que
 
 Do you have any burning questions about git or how you will use it in this course?
 
-Yes but its less a specific question, and more and general still trying to grasp all of the concepts. Which I assume is normal for the pace at which the class moves. If I defintely will ask questions as they arrise and can articulate appropriately. 
+Yes but its less a specific question, and more and general still trying to grasp all of the concepts. Which I assume is normal for the pace at which the class moves. If I defintely will ask questions as they arrise and can articulate appropriately.
