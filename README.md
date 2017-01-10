@@ -97,18 +97,18 @@ Branching](http://pcottle.github.io/learnGitBranching/) again.
 When you've completed all the required exercises, checkout to a new branch 'response' and answer the following questions, placing your answers where prompted. Don't hesitate to add anything else you'd like us to know about your experience with this pactice, or the course so far.
 
 - How do you learn best?
-- <answer-here>
+- I learn best through visuals and doing a task. I usually need to go through something several times before I have really retained.
 -  Which resources from this document helped you the most?
-- <answer-here>
+- Definitely the codeschool git tutorial. Everything was demonstarted and laid out very clearly.
 -  Which resource (if any) was most frustrating? Why?
-- <answer-here>
+- Definitely learn git branching. I could not wrap my head around what some of the visuals were trying to demonstrate and then it expects you to perform something it just showed you for the first time a moment ago.
 -   How comfortable are you with the workflow (series of steps and git commands) we use to share work and responses?
-- <answer-here>
+- More comfortable than I was at the start, but I will need a lot of practice before I can really say that I get it.
 - Do you have any burning questions about git or how you will use it in this course?
--  <answer-here>
+-  I don't understand HEAD. The idea of branches is something that will take me some time to wrap my head around, but I understand them in principle. I'm not sure if I understand what hashes are. 
 
 
-After you've answered the questions, create a pull request with your response. 
+After you've answered the questions, create a pull request with your response.
 
 ## [License](LICENSE)
 
