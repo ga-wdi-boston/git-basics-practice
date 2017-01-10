@@ -97,18 +97,18 @@ Branching](http://pcottle.github.io/learnGitBranching/) again.
 When you've completed all the required exercises, checkout to a new branch 'response' and answer the following questions, placing your answers where prompted. Don't hesitate to add anything else you'd like us to know about your experience with this pactice, or the course so far.
 
 - How do you learn best?
-- <answer-here>
+- <When learning a new topic I work best when presented with interactive examples.>
 -  Which resources from this document helped you the most?
-- <answer-here>
+- <CodeSchool was very good in the way it taught the material. Learn Git branching was very helpful through its interactivity. >
 -  Which resource (if any) was most frustrating? Why?
-- <answer-here>
+- <Even though I liked Learn Git branching it was very frustrating to not be able to quickly reset my mistakes. I had to refresh the page to get back to square one.>
 -   How comfortable are you with the workflow (series of steps and git commands) we use to share work and responses?
-- <answer-here>
+- <My comfort level is a 3 out of 5. I would have said 4 but the remote to Origin and Beyond levels really got me.  It was very challenging and may need further explanation. >
 - Do you have any burning questions about git or how you will use it in this course?
--  <answer-here>
+-  <Are a lot of my projects from starter code or will they be initialized from scratch.>
 
 
-After you've answered the questions, create a pull request with your response. 
+After you've answered the questions, create a pull request with your response.
 
 ## [License](LICENSE)
 
