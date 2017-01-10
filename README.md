@@ -97,18 +97,18 @@ Branching](http://pcottle.github.io/learnGitBranching/) again.
 When you've completed all the required exercises, checkout to a new branch 'response' and answer the following questions, placing your answers where prompted. Don't hesitate to add anything else you'd like us to know about your experience with this pactice, or the course so far.
 
 - How do you learn best?
-- <answer-here>
+- I learn best using a combination of lectures, trying things out on my own, and having some one-on=one time with instructors.  I also benefit from trying to work through things with a partner.
 -  Which resources from this document helped you the most?
-- <answer-here>
+- The learngitbranching website was phenomenal.  It was the right combination of instruction and trial and error with clear visuals of the effect that my changes made.
 -  Which resource (if any) was most frustrating? Why?
-- <answer-here>
+- I did not like the octocat lesson because it held my hand too much.  It was too easy to just type in the command and move along.  It didn't provide a challenge becuase of these reasons.
 -   How comfortable are you with the workflow (series of steps and git commands) we use to share work and responses?
-- <answer-here>
+- I think I am about as comfortable as possible right now with the git workflow.  I managed to complete the entire learngitbranching website, both sections of local and remote and enjoyed learning all of the steps.  I spent a while doing it and I didn't understand it 100% but I think I will pick up the more advanced concepts even faster now that I have a glimpse of them and some experience.
 - Do you have any burning questions about git or how you will use it in this course?
--  <answer-here>
+-  I'm interested to see just how much we will get into some of the higher level git commands, but most of the intro and moderate level tools make sense to me why they exist and how we use them.  I just need to get a little comfortable with more repitition.
 
 
-After you've answered the questions, create a pull request with your response. 
+After you've answered the questions, create a pull request with your response.
 
 ## [License](LICENSE)
 
