@@ -97,18 +97,20 @@ Branching](http://pcottle.github.io/learnGitBranching/) again.
 When you've completed all the required exercises, checkout to a new branch 'response' and answer the following questions, placing your answers where prompted. Don't hesitate to add anything else you'd like us to know about your experience with this pactice, or the course so far.
 
 - How do you learn best?
-- <answer-here>
+- I learn best when it's one-on-one the first couple of times or when I'm at home with little to no noise. I also learn better with documents printed out and hands-on experience. Being able to write down the process and definitions.
 -  Which resources from this document helped you the most?
-- <answer-here>
+- The reading helped a lot. Comparing workflows as well as the tutorials and physically inputting them after getting a better description of what these commands meant in Git.
 -  Which resource (if any) was most frustrating? Why?
-- <answer-here>
+- None thus far... I mean the tutorials with Git branching started getting more complicated but I liked the definitions beforehand to assist with any frustrations. 
+
 -   How comfortable are you with the workflow (series of steps and git commands) we use to share work and responses?
-- <answer-here>
+- Out of 10, I would say a 5 at the moment. I did write down the commands for quicker glances.
 - Do you have any burning questions about git or how you will use it in this course?
--  <answer-here>
+- Why do we use git log?
+As for reversing changes in Git, we wouldn't replace git reset HEAD~1 with git reset local~1 from the workout? It did the same thing but why not?
 
 
-After you've answered the questions, create a pull request with your response. 
+After you've answered the questions, create a pull request with your response.
 
 ## [License](LICENSE)
 
