@@ -111,7 +111,7 @@ Although the tutorial was very valuable, I found it to be frustrating at times. 
 On a scale of 1 to 5, I would describe my comfort level with workflow at a 3.
 
 - Do you have any burning questions about git or how you will use it in this course?
-No questions at this time.  One comment though - it would be very helpful if the terminology was discussed in more depth.  In other words, going over the definition of words and how they differ from other terms (e.g. repo versus folder).
+No questions at this time.  One comment though - it would be very helpful if the terminology was discussed in more depth.  In other words, going over the definition of words and how they differ from other terms - e.g. repo versus folder.
 
 
 After you've answered the questions, create a pull request with your response.
