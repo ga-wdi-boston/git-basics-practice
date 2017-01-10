@@ -97,18 +97,18 @@ Branching](http://pcottle.github.io/learnGitBranching/) again.
 When you've completed all the required exercises, checkout to a new branch 'response' and answer the following questions, placing your answers where prompted. Don't hesitate to add anything else you'd like us to know about your experience with this pactice, or the course so far.
 
 - How do you learn best?
-- <answer-here>
+- <Practices and failures>
 -  Which resources from this document helped you the most?
-- <answer-here>
+- <Learn Git Branching because you can actaully trial and error the commands to see what is working and whats not working.>
 -  Which resource (if any) was most frustrating? Why?
-- <answer-here>
+- <Learn Git Branching because most of the time I went with more steps for the solution and can't figure how to solve the problem with less steps>
 -   How comfortable are you with the workflow (series of steps and git commands) we use to share work and responses?
-- <answer-here>
+- <I would say I am fairly comfortable, but I do need more coaching on the commands>
 - Do you have any burning questions about git or how you will use it in this course?
--  <answer-here>
+-  <What does double dash do? What is the difference between it and the single dash? How come --rebase doesn't work no matter how I coded it?>
 
 
-After you've answered the questions, create a pull request with your response. 
+After you've answered the questions, create a pull request with your response.
 
 ## [License](LICENSE)
 
