@@ -15,7 +15,7 @@ you don't understand the workflows themselves. For now, focus on how the
 commands are being used and how the changes are visualized. This should take
 about an hour.
 
-## Required Tutorials
+## Required Tutorial
 
 If you have any questions during these tutorials, then review your class notes
 and our talk repositories. To do that, navigate to the [General Assembly WDI Boston](https://github.com/ga-wdi-boston)
@@ -30,6 +30,8 @@ organization on GitHub and use the search box to find our git repositories.
 First, let's review the basic `git` commands using CodeSchool's excellent, free
 [Try Git](https://try.github.io/levels/1/challenges/1) tutorial. This should
 take somewhere between 15 and 30 minutes to complete.
+
+## Optional Tutorial
 
 ### Learn Git Branching
 
