@@ -72,23 +72,21 @@ may be good references if you get stuck.
 
 ## Optional Bonus
 
-If you need more review, continue by working through the free chapter of
-CodeSchool's [Interactive Git
-Tutorial](https://www.codeschool.com/courses/git-real).
+If you need more review, then continue by working through the free chapter of
+CodeSchool's [Interactive Git Tutorial](https://www.codeschool.com/courses/git-real).
 
 You may also want to practice targeted review with [Learn Version Control with Git](http://www.git-tower.com/learn/git/ebook/),
 one of the best intermediate references available for free online. If you're
-not satisfied with how well you understand a topic, scan the table of contents
-and give yourself a set amount of time to review. After time is up, move on!
-This practice is called [timeboxing](https://en.wikipedia.org/wiki/Timeboxing)
-and is a great way to avoid getting off track.
+not satisfied with how well you understand a topic, then scan the table of
+contents and give yourself a set amount of time to review it. After time is up,
+move on! This practice is called [timeboxing](https://en.wikipedia.org/wiki/Timeboxing)
+and it is a great way to avoid getting off track.
 
-Finally, review some of the great visuals provided at [A Visual Git
-Reference](http://marklodato.github.io/visual-git-guide/index-en.html). These
-diagrams are more detailed and offer annotations that may help you understand
-how git works. These make a great reference for later, especially if you don't
-want to replay [Learn Git
-Branching](http://pcottle.github.io/learnGitBranching/) again.
+Finally, review some of the great visuals provided at [A Visual Git Reference](http://marklodato.github.io/visual-git-guide/index-en.html).
+These diagrams are more detailed and offer annotations that may help you
+understand how git works. They also make a great reference for later,
+especially if you don't want to replay [Learn Git Branching](http://pcottle.github.io/learnGitBranching/)
+again.
 
 ## Required Response
 
