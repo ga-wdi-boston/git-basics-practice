@@ -17,10 +17,9 @@ about an hour.
 
 ## Required Tutorials
 
-If you have any questions during these tutorials, review your class notes and
-our lesson repos. To do that, navigate to the [General Assembly WDI
-Boston](https://github.com/ga-wdi-boston) organization and use the search box to
-find our git repositories.
+If you have any questions during these tutorials, then review your class notes
+and our talk repositories. To do that, navigate to the [General Assembly WDI Boston](https://github.com/ga-wdi-boston)
+organization on GitHub and use the search box to find our git repositories.
 
 <img width="400"
      alt="general_assembly_wdi_boston"
@@ -36,7 +35,7 @@ take somewhere between 15 and 30 minutes to complete.
 
 Next, we'll focus on visualizing git commands, especially branching, by working
 on [Learn Git Branching](http://pcottle.github.io/learnGitBranching/). Complete
-all the exercises in the following sequences:
+all of the exercises in the following sequences:
 
 -   `Main > Introduction Sequence`, levels 1 and 2
 -   `Main > Ramping Up`, all levels
@@ -52,25 +51,24 @@ all the exercises in the following sequences:
      alt="learn_git_branching remote tab"
      src="https://cloud.githubusercontent.com/assets/388761/15299518/c0362988-1b72-11e6-92fb-d33d1053a964.png">
 
-Each level in Learn Git Branching will explain the concepts you are expected to
-use to solve the level. Think of these as instructions, and do not skip them!
+Each level in Learn Git Branching will explain the concepts that you are
+expected to use to solve the level. Think of these as instructions and don't
+skip them!
 
 <img width="400"
      alt="learn_git_branching instructions for level 1"
      src="https://cloud.githubusercontent.com/assets/388761/15299755/bf8f3b90-1b73-11e6-9325-cbbac378b46f.png">
 
-You'll have an interactive shell to complete each challenge, as well as help
-buttons which display your goal and a visualization of what the end goal should
-look like.
+You'll have an interactive shell to complete each challenge, help buttons that
+display the goal, and a visualization of what the end goal should look like.
 
 <img width="400"
      alt="learn_git_branching interface"
      src="https://cloud.githubusercontent.com/assets/388761/15299932/5b266254-1b74-11e6-930f-659a8583c111.png">
 
-This will take longer. If you spend more than an hour on this, please let an
-instructor know. Some of the [Atlassian Git
-Tutorials](https://www.atlassian.com/git/tutorials/using-branches) may be good
-references if you get stuck.
+This will take longer. If you spend more than an hour on this, then please let a
+consultant know. Some of the [Atlassian Git Tutorials](https://www.atlassian.com/git/tutorials/using-branches)
+may be good references if you get stuck.
 
 ## Optional Bonus
 
