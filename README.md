@@ -2,7 +2,7 @@
 
 # Git Basics: Practice
 
-## Reading (Required)
+## Required Reading
 
 Read the entire [Comparing
 Workflows](https://www.atlassian.com/git/tutorials/comparing-workflows) tutorial
@@ -15,7 +15,7 @@ the workflows themselves, that's OK! Just focus on how the commands are being
 used and how the changes they work are visualized. This should take about an
 hour.
 
-## Tutorials (Required)
+## Required Tutorials
 
 If you have any questions during these tutorials, review your class notes and
 our lesson repos. To do that, navigate to the [General Assembly WDI
@@ -72,7 +72,7 @@ instructor know. Some of the [Atlassian Git
 Tutorials](https://www.atlassian.com/git/tutorials/using-branches) may be good
 references if you get stuck.
 
-## Bonus (Optional)
+## Optional Bonus
 
 If you need more review, continue by working through the free chapter of
 CodeSchool's [Interactive Git
@@ -92,7 +92,7 @@ how git works. These make a great reference for later, especially if you don't
 want to replay [Learn Git
 Branching](http://pcottle.github.io/learnGitBranching/) again.
 
-## Response (Required)
+## Required Response
 
 When you've completed all the required exercises, checkout to a new branch 'response' and answer the following questions, placing your answers where prompted. Don't hesitate to add anything else you'd like us to know about your experience with this pactice, or the course so far.
 
