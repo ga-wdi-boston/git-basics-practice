@@ -91,7 +91,7 @@ again.
 ## Required Response
 
 Once you have completed all of the required readings and the required tutorials,
-checkout to a new branch, `response`, and answer the questions in `study.md`.
+checkout to a new branch, `response`, and answer the questions in `response.md`.
 Don't hesitate to add anything else that you want to let us know about your
 experience with this practice or the course so far. After you've answered the
 questions, create a pull request with your response.
