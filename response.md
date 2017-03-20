@@ -8,7 +8,7 @@ How do you learn best?
 <!-- your answer here -->
 ```
 
-## The Most Interesting Resource(s)
+## The Most Effective Resource(s)
 
 Which resource(s) from the practice helped you the most?
 
@@ -16,7 +16,7 @@ Which resource(s) from the practice helped you the most?
 <!-- your answer here -->
 ```
 
-## The Least Interesting Resource(s)
+## The Least Effective Resource(s)
 
 Which resource(s), if any, was the most frustrating and why?
 
