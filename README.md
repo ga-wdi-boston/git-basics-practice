@@ -4,16 +4,16 @@
 
 ## Required Reading
 
-Read the entire [Comparing
-Workflows](https://www.atlassian.com/git/tutorials/comparing-workflows) tutorial
-from Atlassian, except for the "Gitflow Workflow" section, which is optional.
+Read the entire [Comparing Workflows](https://www.atlassian.com/git/tutorials/comparing-workflows)
+tutorial from Atlassian, except for the "Gitflow Workflow" section, which is
+optional.
 
-It's a solid overview of all the commands we've learned, and an introduction to
-different common patterns developers use to save their work with git. Pay
-particular attention to the "Feature Branch Workflow". If you don't understand
-the workflows themselves, that's OK! Just focus on how the commands are being
-used and how the changes they work are visualized. This should take about an
-hour.
+It's a solid overview of all of the commands that we've learned and an
+introduction to common patterns that developers use to save their work with git.
+Pay particular attention to the "Feature Branch Workflow" section. It's okay if
+you don't understand the workflows themselves. For now, focus on how the
+commands are being used and how the changes are visualized. This should take
+about an hour.
 
 ## Required Tutorials
 
