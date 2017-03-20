@@ -96,17 +96,6 @@ Don't hesitate to add anything else that you want to let us know about your
 experience with this practice or the course so far. After you've answered the
 questions, create a pull request with your response.
 
-- How do you learn best?
-- <answer-here>
--  Which resources from this document helped you the most?
-- <answer-here>
--  Which resource (if any) was most frustrating? Why?
-- <answer-here>
--   How comfortable are you with the workflow (series of steps and git commands) we use to share work and responses?
-- <answer-here>
-- Do you have any burning questions about git or how you will use it in this course?
--  <answer-here>
-
 ## [License](LICENSE)
 
 1.  All content is licensed under a CC­BY­NC­SA 4.0 license.

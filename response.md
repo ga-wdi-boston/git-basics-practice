@@ -1,28 +1,42 @@
 # Git Basics: Practice
 
-## EXAMPLE: Define "single-page application" (SPA)
+## Learning Style
 
-In your own words, define what a SPA is. In your answer, be sure to cite any
-relevant sources you consulted in your search.
-
-```md
-<!-- your answer here -->
-```
-
-## EXAMPLE: Define "page" as used by non-developers
-
-What do users mean when they say "page"? What did you mean before your started
-your search to define SPAs?
+How do you learn best?
 
 ```md
 <!-- your answer here -->
 ```
 
-## EXAMPLE: Define "view" and "view-state"
+## The Most Interesting Resource(s)
 
-Within the context of SPAs, what do developers mean when they say "view"? Since
-view can have many meanings, what do developers mean when they say "view-state"?
-How do front-end "routers" help manage view-state?
+Which resource(s) from the practice helped you the most?
+
+```md
+<!-- your answer here -->
+```
+
+## The Least Interesting Resource(s)
+
+Which resource(s), if any, was the most frustrating and why?
+
+```md
+<!-- your answer here -->
+```
+
+## Workflow Comfort
+
+How comfortable are you with the workflow (the series of steps and the git
+commands) that we use to share work and responses?
+
+```md
+<!-- your answer here -->
+```
+
+## Git Questions
+
+Do you have any burning questions about git or how you will use it in this
+course?
 
 ```md
 <!-- your answer here -->
