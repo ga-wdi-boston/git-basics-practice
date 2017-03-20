@@ -9,7 +9,7 @@ tutorial from Atlassian, except for the "Gitflow Workflow" section, which is
 optional.
 
 It's a solid overview of all of the commands that we've learned and an
-introduction to common patterns that developers use to save their work with git.
+introduction to common patterns that developers use to save their work with Git.
 Pay particular attention to the "Feature Branch Workflow" section. It's okay if
 you don't understand the workflows themselves. For now, focus on how the
 commands are being used and how the changes are visualized. This should take
@@ -19,7 +19,7 @@ about an hour.
 
 If you have any questions during these tutorials, then review your class notes
 and our talk repositories. To do that, navigate to the [General Assembly WDI Boston](https://github.com/ga-wdi-boston)
-organization on GitHub and use the search box to find our git repositories.
+organization on GitHub and use the search box to find our Git repositories.
 
 <img width="400"
      alt="general_assembly_wdi_boston"
@@ -27,7 +27,7 @@ organization on GitHub and use the search box to find our git repositories.
 
 ### CodeSchool's Try Git
 
-First, let's review the basic `git` commands using CodeSchool's excellent, free
+First, let's review the basic Git commands using CodeSchool's excellent, free
 [Try Git](https://try.github.io/levels/1/challenges/1) tutorial. This should
 take somewhere between 15 and 30 minutes to complete.
 
@@ -35,7 +35,7 @@ take somewhere between 15 and 30 minutes to complete.
 
 ### Learn Git Branching
 
-We'll focus on visualizing git commands, especially branching, by working on
+We'll focus on visualizing Git commands, especially branching, by working on
 [Learn Git Branching](http://pcottle.github.io/learnGitBranching/) in this
 tutorial. Complete all of the exercises in the following sequences:
 
@@ -86,7 +86,7 @@ and it is a great way to avoid getting off track.
 
 Finally, review some of the great visuals provided at [A Visual Git Reference](http://marklodato.github.io/visual-git-guide/index-en.html).
 These diagrams are more detailed and offer annotations that may help you
-understand how git works. They also make a great reference for later,
+understand how Git works. They also make a great reference for later,
 especially if you don't want to replay [Learn Git Branching](http://pcottle.github.io/learnGitBranching/)
 again.
 
