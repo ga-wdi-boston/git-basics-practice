@@ -35,9 +35,9 @@ take somewhere between 15 and 30 minutes to complete.
 
 ### Learn Git Branching
 
-Next, we'll focus on visualizing git commands, especially branching, by working
-on [Learn Git Branching](http://pcottle.github.io/learnGitBranching/). Complete
-all of the exercises in the following sequences:
+We'll focus on visualizing git commands, especially branching, by working on
+[Learn Git Branching](http://pcottle.github.io/learnGitBranching/) in this
+tutorial. Complete all of the exercises in the following sequences:
 
 -   `Main > Introduction Sequence`, levels 1 and 2
 -   `Main > Ramping Up`, all levels
