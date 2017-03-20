@@ -8,12 +8,6 @@ search. We ask you to write responses in your own words in order to see how you
 process what you've read. Please do not respond with direct quotes from source
 material. Instead, digest what you've read and repeat it in your own voice.
 
-## Required Readings
-
--   [Example Reading](https://www.github.com/ga-wdi-boston/example)
--   [Example Reading](https://www.github.com/ga-wdi-boston/example)
--   [Example Reading](https://www.github.com/ga-wdi-boston/example)
-
 ## EXAMPLE: Define "single-page application" (SPA)
 
 In your own words, define what a SPA is. In your answer, be sure to cite any
