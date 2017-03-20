@@ -1,26 +1,25 @@
-![General Assembly Logo](https://camo.githubusercontent.com/1a91b05b8f4d44b5bbfb83abac2b0996d8e26c92/687474703a2f2f692e696d6775722e636f6d2f6b6538555354712e706e67)
+[![General Assembly Logo](https://camo.githubusercontent.com/1a91b05b8f4d44b5bbfb83abac2b0996d8e26c92/687474703a2f2f692e696d6775722e636f6d2f6b6538555354712e706e67)](https://generalassemb.ly/education/web-development-immersive)
 
 # Git Basics: Practice
 
-## Reading (Required)
+## Required Reading
 
-Read the entire [Comparing
-Workflows](https://www.atlassian.com/git/tutorials/comparing-workflows) tutorial
-from Atlassian, except for the "Gitflow Workflow" section, which is optional.
+Read the entire [Comparing Workflows](https://www.atlassian.com/git/tutorials/comparing-workflows)
+tutorial from Atlassian, except for the "Gitflow Workflow" section, which is
+optional.
 
-It's a solid overview of all the commands we've learned, and an introduction to
-different common patterns developers use to save their work with git. Pay
-particular attention to the "Feature Branch Workflow". If you don't understand
-the workflows themselves, that's OK! Just focus on how the commands are being
-used and how the changes they work are visualized. This should take about an
-hour.
+It's a solid overview of all of the commands that we've learned and an
+introduction to common patterns that developers use to save their work with Git.
+Pay particular attention to the "Feature Branch Workflow" section. It's okay if
+you don't understand the workflows themselves. For now, focus on how the
+commands are being used and how the changes are visualized. This should take
+about an hour.
 
-## Tutorials (Required)
+## Required Tutorial
 
-If you have any questions during these tutorials, review your class notes and
-our lesson repos. To do that, navigate to the [General Assembly WDI
-Boston](https://github.com/ga-wdi-boston) organization and use the search box to
-find our git repositories.
+If you have any questions during these tutorials, then review your class notes
+and our talk repositories. To do that, navigate to the [General Assembly WDI Boston](https://github.com/ga-wdi-boston)
+organization on GitHub and use the search box to find our Git repositories.
 
 <img width="400"
      alt="general_assembly_wdi_boston"
@@ -28,15 +27,17 @@ find our git repositories.
 
 ### CodeSchool's Try Git
 
-First, let's review the basic `git` commands using CodeSchool's excellent, free
+First, let's review the basic Git commands using CodeSchool's excellent, free
 [Try Git](https://try.github.io/levels/1/challenges/1) tutorial. This should
 take somewhere between 15 and 30 minutes to complete.
 
+## Optional Tutorial
+
 ### Learn Git Branching
 
-Next, we'll focus on visualizing git commands, especially branching, by working
-on [Learn Git Branching](http://pcottle.github.io/learnGitBranching/). Complete
-all the exercises in the following sequences:
+We'll focus on visualizing Git commands, especially branching, by working on
+[Learn Git Branching](http://pcottle.github.io/learnGitBranching/) in this
+tutorial. Complete all of the exercises in the following sequences:
 
 -   `Main > Introduction Sequence`, levels 1 and 2
 -   `Main > Ramping Up`, all levels
@@ -52,63 +53,50 @@ all the exercises in the following sequences:
      alt="learn_git_branching remote tab"
      src="https://cloud.githubusercontent.com/assets/388761/15299518/c0362988-1b72-11e6-92fb-d33d1053a964.png">
 
-Each level in Learn Git Branching will explain the concepts you are expected to
-use to solve the level. Think of these as instructions, and do not skip them!
+Each level in Learn Git Branching will explain the concepts that you are
+expected to use to solve the level. Think of these as instructions and don't
+skip them!
 
 <img width="400"
      alt="learn_git_branching instructions for level 1"
      src="https://cloud.githubusercontent.com/assets/388761/15299755/bf8f3b90-1b73-11e6-9325-cbbac378b46f.png">
 
-You'll have an interactive shell to complete each challenge, as well as help
-buttons which display your goal and a visualization of what the end goal should
-look like.
+You'll have an interactive shell to complete each challenge, help buttons that
+display the goal, and a visualization of what the end goal should look like.
 
 <img width="400"
      alt="learn_git_branching interface"
      src="https://cloud.githubusercontent.com/assets/388761/15299932/5b266254-1b74-11e6-930f-659a8583c111.png">
 
-This will take longer. If you spend more than an hour on this, please let an
-instructor know. Some of the [Atlassian Git
-Tutorials](https://www.atlassian.com/git/tutorials/using-branches) may be good
-references if you get stuck.
+This will take longer. If you spend more than an hour on this, then please let a
+consultant know. Some of the [Atlassian Git Tutorials](https://www.atlassian.com/git/tutorials/using-branches)
+may be good references if you get stuck.
 
-## Bonus (Optional)
+## Optional Bonus
 
-If you need more review, continue by working through the free chapter of
-CodeSchool's [Interactive Git
-Tutorial](https://www.codeschool.com/courses/git-real).
+If you need more review, then continue by working through the free chapter of
+CodeSchool's [Interactive Git Tutorial](https://www.codeschool.com/courses/git-real).
 
 You may also want to practice targeted review with [Learn Version Control with Git](http://www.git-tower.com/learn/git/ebook/),
 one of the best intermediate references available for free online. If you're
-not satisfied with how well you understand a topic, scan the table of contents
-and give yourself a set amount of time to review. After time is up, move on!
-This practice is called [timeboxing](https://en.wikipedia.org/wiki/Timeboxing)
-and is a great way to avoid getting off track.
+not satisfied with how well you understand a topic, then scan the table of
+contents and give yourself a set amount of time to review it. After time is up,
+move on! This practice is called [timeboxing](https://en.wikipedia.org/wiki/Timeboxing)
+and it is a great way to avoid getting off track.
 
-Finally, review some of the great visuals provided at [A Visual Git
-Reference](http://marklodato.github.io/visual-git-guide/index-en.html). These
-diagrams are more detailed and offer annotations that may help you understand
-how git works. These make a great reference for later, especially if you don't
-want to replay [Learn Git
-Branching](http://pcottle.github.io/learnGitBranching/) again.
+Finally, review some of the great visuals provided at [A Visual Git Reference](http://marklodato.github.io/visual-git-guide/index-en.html).
+These diagrams are more detailed and offer annotations that may help you
+understand how Git works. They also make a great reference for later,
+especially if you don't want to replay [Learn Git Branching](http://pcottle.github.io/learnGitBranching/)
+again.
 
-## Response (Required)
+## Required Response
 
-When you've completed all the required exercises, checkout to a new branch 'response' and answer the following questions, placing your answers where prompted. Don't hesitate to add anything else you'd like us to know about your experience with this pactice, or the course so far.
-
-- How do you learn best?
-- <answer-here>
--  Which resources from this document helped you the most?
-- <answer-here>
--  Which resource (if any) was most frustrating? Why?
-- <answer-here>
--   How comfortable are you with the workflow (series of steps and git commands) we use to share work and responses?
-- <answer-here>
-- Do you have any burning questions about git or how you will use it in this course?
--  <answer-here>
-
-
-After you've answered the questions, create a pull request with your response. 
+Once you have completed all of the required readings and the required tutorials,
+checkout to a new branch, `response`, and answer the questions in `response.md`.
+Don't hesitate to add anything else that you want to let us know about your
+experience with this practice or the course so far. After you've answered the
+questions, create a pull request with your response.
 
 ## [License](LICENSE)
 
