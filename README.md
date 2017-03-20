@@ -90,7 +90,11 @@ again.
 
 ## Required Response
 
-When you've completed all the required exercises, checkout to a new branch 'response' and answer the following questions, placing your answers where prompted. Don't hesitate to add anything else you'd like us to know about your experience with this pactice, or the course so far.
+Once you have completed all of the required readings and the required tutorials,
+checkout to a new branch, `response`, and answer the questions in `study.md`.
+Don't hesitate to add anything else that you want to let us know about your
+experience with this practice or the course so far. After you've answered the
+questions, create a pull request with your response.
 
 - How do you learn best?
 - <answer-here>
@@ -102,9 +106,6 @@ When you've completed all the required exercises, checkout to a new branch 'resp
 - <answer-here>
 - Do you have any burning questions about git or how you will use it in this course?
 -  <answer-here>
-
-
-After you've answered the questions, create a pull request with your response.
 
 ## [License](LICENSE)
 
