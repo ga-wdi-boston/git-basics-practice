@@ -13,7 +13,7 @@ I like learning by doing to reinforce concepts from readings and lectures
 Which resource(s) from the practice helped you the most?
 
 ```md
-Learn git branching was very helpful because of the graphical interface and hands-on excercises
+Learn git branching was very helpful because of the graphical interface and hands-on excercises.
 ```
 
 ## The Least Effective Resource(s)
