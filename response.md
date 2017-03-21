@@ -5,7 +5,8 @@
 How do you learn best?
 
 ```md
-<!-- your answer here -->
+<!-- By seeing, then doing. Hands on experience with something immediately after
+it was taught to me is how I learn best. Basically - this class.  -->
 ```
 
 ## The Most Effective Resource(s)
@@ -13,7 +14,7 @@ How do you learn best?
 Which resource(s) from the practice helped you the most?
 
 ```md
-<!-- your answer here -->
+<!-- the Learn Git Branching online tutorial -->
 ```
 
 ## The Least Effective Resource(s)
@@ -21,7 +22,8 @@ Which resource(s) from the practice helped you the most?
 Which resource(s), if any, was the most frustrating and why?
 
 ```md
-<!-- your answer here -->
+<!-- Code School's TryGit - the commands used here are different than what we
+were shown in class, and some are even what we were told not to do-->
 ```
 
 ## Workflow Comfort
@@ -30,7 +32,7 @@ How comfortable are you with the workflow (the series of steps and the git
 commands) that we use to share work and responses?
 
 ```md
-<!-- your answer here -->
+<!-- Pretty comfortable. a '4' on a Fist of Five-->
 ```
 
 ## Git Questions
@@ -39,5 +41,5 @@ Do you have any burning questions about git or how you will use it in this
 course?
 
 ```md
-<!-- your answer here -->
+<!-- Nope! -->
 ```
