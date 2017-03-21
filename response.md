@@ -43,4 +43,4 @@ Do you have any burning questions about git or how you will use it in this
 course?
 
 ```md
-not at this time. A few about merge conflicts but we will visit that later.```
+not at this time. A few about merge conflicts but we will visit that later. ```
