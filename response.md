@@ -5,7 +5,7 @@
 How do you learn best?
 
 ```md
-<!-- your answer here -->
+hands on; repeat; repeat
 ```
 
 ## The Most Effective Resource(s)
@@ -13,7 +13,7 @@ How do you learn best?
 Which resource(s) from the practice helped you the most?
 
 ```md
-<!-- your answer here -->
+All were helpful.  The code school tutorial provided the most hands on.
 ```
 
 ## The Least Effective Resource(s)
@@ -21,7 +21,7 @@ Which resource(s) from the practice helped you the most?
 Which resource(s), if any, was the most frustrating and why?
 
 ```md
-<!-- your answer here -->
+Comparing Workflows
 ```
 
 ## Workflow Comfort
@@ -30,7 +30,7 @@ How comfortable are you with the workflow (the series of steps and the git
 commands) that we use to share work and responses?
 
 ```md
-<!-- your answer here -->
+Comfortable with basics.  Need more practice on the remote repositories.
 ```
 
 ## Git Questions
@@ -39,5 +39,5 @@ Do you have any burning questions about git or how you will use it in this
 course?
 
 ```md
-<!-- your answer here -->
+Not at this time.
 ```
