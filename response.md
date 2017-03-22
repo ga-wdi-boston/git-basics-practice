@@ -5,7 +5,7 @@
 How do you learn best?
 
 ```md
-<reading, writing, hearing, doing, not in that order->
+<reading, writing, hearing, doing, teaching but not in that order->
 ```
 ## The Most Effective Resource(s)
 
