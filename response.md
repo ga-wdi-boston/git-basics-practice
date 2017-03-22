@@ -5,7 +5,7 @@
 How do you learn best?
 
 ```md
-<!-- your answer here -->
+I am a visual and audible learner. Also do best with examples. Lots of examples.
 ```
 
 ## The Most Effective Resource(s)
@@ -13,16 +13,14 @@ How do you learn best?
 Which resource(s) from the practice helped you the most?
 
 ```md
-<!-- your answer here -->
-```
+the resource from atlassian was most helpful```
 
 ## The Least Effective Resource(s)
 
 Which resource(s), if any, was the most frustrating and why?
 
 ```md
-<!-- your answer here -->
-```
+the ones with least pictures or examples```
 
 ## Workflow Comfort
 
@@ -30,7 +28,7 @@ How comfortable are you with the workflow (the series of steps and the git
 commands) that we use to share work and responses?
 
 ```md
-<!-- your answer here -->
+I am learning and understand the concepts. I need more hands on practice.
 ```
 
 ## Git Questions
@@ -39,5 +37,4 @@ Do you have any burning questions about git or how you will use it in this
 course?
 
 ```md
-<!-- your answer here -->
-```
+I am not comfortable with git remote. Can I get by without mastering this aspect?```
