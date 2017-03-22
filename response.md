@@ -5,15 +5,14 @@
 How do you learn best?
 
 ```md
-<!-- your answer here -->
+<reading, writing, hearing, doing, teaching but not in that order->
 ```
-
 ## The Most Effective Resource(s)
 
 Which resource(s) from the practice helped you the most?
 
 ```md
-<!-- your answer here -->
+<try git tutorials.  Octocats!>
 ```
 
 ## The Least Effective Resource(s)
@@ -21,7 +20,8 @@ Which resource(s) from the practice helped you the most?
 Which resource(s), if any, was the most frustrating and why?
 
 ```md
-<!-- your answer here -->
+<many times with the paragraph format it's dificult to keep track of
+where the actions are>
 ```
 
 ## Workflow Comfort
@@ -30,7 +30,7 @@ How comfortable are you with the workflow (the series of steps and the git
 commands) that we use to share work and responses?
 
 ```md
-<!-- your answer here -->
+< on a range of five-of-five... 4.1?  the remote add stuff requires more practice>
 ```
 
 ## Git Questions
@@ -39,5 +39,5 @@ Do you have any burning questions about git or how you will use it in this
 course?
 
 ```md
-<!-- your answer here -->
+<still having error with remote add but will chat with squad tomorrow>
 ```
