@@ -5,7 +5,9 @@
 How do you learn best?
 
 ```md
-I learn best by doing, it is hard for me to learn through conversation/visualzation. Code alongs and practices help me the most.
+I learn best by doing, it is hard for me to learn through
+conversation/visualzation.
+Code alongs and practices help me the most.
 ```
 
 ## The Most Effective Resource(s)
@@ -13,10 +15,13 @@ I learn best by doing, it is hard for me to learn through conversation/visualzat
 Which resource(s) from the practice helped you the most?
 
 ```md
-Code schools try it was good, but I really liked the link here from additional resources A TON for the visuals/try it:
+Code schools try it was good, but I really liked the
+link here from additional resources
+A TON for the visuals/try it:
 http://www.wei-wang.com/ExplainGitWithD3/
 
-I thought that made all the GIT comand concepts crazy clear.  I especially like the combo of visuals and doing it.
+I thought that made all the GIT comand concepts crazy clear.
+I especially like the combo of visuals and doing it.
 ```
 
 ## The Least Effective Resource(s)
