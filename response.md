@@ -5,7 +5,7 @@
 How do you learn best?
 
 ```md
-<!-- your answer here -->
+Visually for sure. Practicing and actually doing helps me the most.
 ```
 
 ## The Most Effective Resource(s)
@@ -13,7 +13,8 @@ How do you learn best?
 Which resource(s) from the practice helped you the most?
 
 ```md
-<!-- your answer here -->
+The Comparing Workflows tutorial from Atlassin cleared up a lot with how we may
+use Git in the real world or on projects. Google helped a lot as well.
 ```
 
 ## The Least Effective Resource(s)
@@ -21,7 +22,8 @@ Which resource(s) from the practice helped you the most?
 Which resource(s), if any, was the most frustrating and why?
 
 ```md
-<!-- your answer here -->
+I wouldnt say frustating... but tryGit used some "never do these" practices that
+we learned in class.
 ```
 
 ## Workflow Comfort
@@ -30,7 +32,7 @@ How comfortable are you with the workflow (the series of steps and the git
 commands) that we use to share work and responses?
 
 ```md
-<!-- your answer here -->
+4/5
 ```
 
 ## Git Questions
@@ -39,5 +41,10 @@ Do you have any burning questions about git or how you will use it in this
 course?
 
 ```md
-<!-- your answer here -->
+In practice is the git pull command (for the purpose of making sure there
+are no new additions since the last time you had it) traditionally ran after you
+have commited your changes OR do you stage your changes run the pull THEN commit
+and push?
+
+UPDATE: JK i googled it lol. realised we went over this.
 ```
