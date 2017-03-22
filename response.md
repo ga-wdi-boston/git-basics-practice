@@ -30,7 +30,7 @@ How comfortable are you with the workflow (the series of steps and the git
 commands) that we use to share work and responses?
 
 ```md
-I'm solid with the fork-clone-edit-add-commit-push workflow. Switching between master and other branches makes me nervous. I'm shaky with how remotes factor into the whole workflow. I need more practical practice. I think a step by step instruction on
+I'm solid with the fork-clone-edit-add-commit-push workflow. Switching between master and other branches makes me nervous. I'm shaky with how remotes factor into the whole workflow. I need more practical practice. I think a step by step instruction on any new workflows will help immensely until I am solid on more complex steps.
 ```
 
 ## Git Questions
