@@ -14,7 +14,7 @@ helpful.  It gave me a reference point to what was abstract.
 Which resource(s) from the practice helped you the most?
 
 ```md
-I liked the Atlassian article.  It had both the visual component and actual
+I liked the Atlassian article. It had both the visual component and actual
 commands along with the examples. It mirrors what I 'hear' some of the
 dev's at work talk about features. Often they will merge code in the master, but
 it will be turned off. How does that work in this model?
