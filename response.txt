@@ -1,0 +1,12 @@
+How do you learn best?
+I learn best by doing. Someone shows me, then I do it, then I practice.
+
+Which resources from this document helped you the most?
+ The tutorials and practice exercises were very helpful but I did not have enough time to play with it as the reading takes a long time for me, because it is all new, a lot of information and it's all greek to me.
+
+Which resource (if any) was most frustrating? Why?
+The frustrating thing is the amount of information. It is a lot at once and we are moving through faster than I can grasp it.
+
+How comfortable are you with the workflow (series of steps and git commands) we use to share work and responses? I understand the theory but I am completely lost in the application.
+
+Do you have any burning questions about git or how you will use it in this course? I understand what git is, I think and I see the importance of it. I just am overwhelmed.  I know that I need to add, commit push, but I don"t know how to get there or pull afterwards.
