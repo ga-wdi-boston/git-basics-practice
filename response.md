@@ -5,7 +5,7 @@
 How do you learn best?
 
 ```md
-<!-- your answer here -->
+Through repetitive practice.
 ```
 
 ## The Most Effective Resource(s)
@@ -13,7 +13,7 @@ How do you learn best?
 Which resource(s) from the practice helped you the most?
 
 ```md
-<!-- your answer here -->
+The required tutorials.
 ```
 
 ## The Least Effective Resource(s)
@@ -21,7 +21,9 @@ Which resource(s) from the practice helped you the most?
 Which resource(s), if any, was the most frustrating and why?
 
 ```md
-<!-- your answer here -->
+The required reading was the most frustrating. I find it easier to learn when
+I am practicing rather than reading about a certain topic. Sometimes it is
+harder to follow along.
 ```
 
 ## Workflow Comfort
@@ -30,7 +32,7 @@ How comfortable are you with the workflow (the series of steps and the git
 commands) that we use to share work and responses?
 
 ```md
-<!-- your answer here -->
+60% comfortable with workflow.
 ```
 
 ## Git Questions
@@ -39,5 +41,6 @@ Do you have any burning questions about git or how you will use it in this
 course?
 
 ```md
-<!-- your answer here -->
+I would like to know how we are going to use git and github for our future
+group project.
 ```
