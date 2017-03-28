@@ -32,7 +32,7 @@ How comfortable are you with the workflow (the series of steps and the git
 commands) that we use to share work and responses?
 
 ```md
-60% comfortable with workflow.
+65% comfortable with workflow.
 ```
 
 ## Git Questions
