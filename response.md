@@ -5,7 +5,7 @@
 How do you learn best?
 
 ```md
-<!-- your answer here -->
+Through visualizations and by doing.
 ```
 
 ## The Most Effective Resource(s)
@@ -13,12 +13,13 @@ How do you learn best?
 Which resource(s) from the practice helped you the most?
 
 ```md
-<!-- your answer here -->
+CodeSchool's try git.
 ```
 
 ## The Least Effective Resource(s)
 
-Which resource(s), if any, was the most frustrating and why?
+Learn git branching. The visualization of git is awesome, but the UI can be hard
+to follow at times.
 
 ```md
 <!-- your answer here -->
@@ -30,7 +31,7 @@ How comfortable are you with the workflow (the series of steps and the git
 commands) that we use to share work and responses?
 
 ```md
-<!-- your answer here -->
+Very comfortable.
 ```
 
 ## Git Questions
@@ -39,5 +40,5 @@ Do you have any burning questions about git or how you will use it in this
 course?
 
 ```md
-<!-- your answer here -->
+Very curious to see how git is used in an enterprise/complex environment.
 ```
