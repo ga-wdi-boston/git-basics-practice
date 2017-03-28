@@ -5,7 +5,7 @@
 How do you learn best?
 
 ```md
-<!-- your answer here -->
+I learn best by reading a concise overview of a subject, reviewing a couple of examples, then actually doing it.
 ```
 
 ## The Most Effective Resource(s)
@@ -13,7 +13,7 @@ How do you learn best?
 Which resource(s) from the practice helped you the most?
 
 ```md
-<!-- your answer here -->
+The Atlassian tutorial on workflows was the resource that helped me most. It gave detailed use cases with flow diagrams as well as git command examples that did a good job of demonstrating the context of how git is used.
 ```
 
 ## The Least Effective Resource(s)
@@ -21,7 +21,7 @@ Which resource(s) from the practice helped you the most?
 Which resource(s), if any, was the most frustrating and why?
 
 ```md
-<!-- your answer here -->
+I found learngitbranching.js.org the most frustrating. I thought it was too busy and required too much clicking to get to the information.
 ```
 
 ## Workflow Comfort
@@ -30,7 +30,7 @@ How comfortable are you with the workflow (the series of steps and the git
 commands) that we use to share work and responses?
 
 ```md
-<!-- your answer here -->
+Fairly comfortable. Looking forward to using the commands some more over the next few days for practice.
 ```
 
 ## Git Questions
@@ -39,5 +39,5 @@ Do you have any burning questions about git or how you will use it in this
 course?
 
 ```md
-<!-- your answer here -->
+No burning questions. It makes sense.
 ```
