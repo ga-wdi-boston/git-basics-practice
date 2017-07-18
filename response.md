@@ -5,7 +5,7 @@
 How do you learn best?
 
 ```md
-<!-- your answer here -->
+I learn best through example and repition.
 ```
 
 ## The Most Effective Resource(s)
@@ -13,7 +13,7 @@ How do you learn best?
 Which resource(s) from the practice helped you the most?
 
 ```md
-<!-- your answer here -->
+I particularly like the learn git branching game. It was interactive and helped show the way the branches work.
 ```
 
 ## The Least Effective Resource(s)
@@ -21,7 +21,7 @@ Which resource(s) from the practice helped you the most?
 Which resource(s), if any, was the most frustrating and why?
 
 ```md
-<!-- your answer here -->
+I didn't find the rescources to be frusterating. In fact octocat was delightful!
 ```
 
 ## Workflow Comfort
@@ -30,7 +30,7 @@ How comfortable are you with the workflow (the series of steps and the git
 commands) that we use to share work and responses?
 
 ```md
-<!-- your answer here -->
+I feel fairly comfortable with the way it works. I will need more practice doing it daily as we work to feel fully confident though.
 ```
 
 ## Git Questions
@@ -39,5 +39,5 @@ Do you have any burning questions about git or how you will use it in this
 course?
 
 ```md
-<!-- your answer here -->
+None yet, once we get into more advanced git usage I'll probably have more.
 ```
